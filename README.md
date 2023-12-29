@@ -1,5 +1,5 @@
 # Netflix_proje
-This project refines the netflix dataset. The tasks to be performed are listed below
+This project improves the netflix dataset. Given the tasks to be performed and the dataset, his project is improving the netflix dataset. The tasks to be performed are listed below.
 
 Task. 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
 Task. 2) Is there any Null Value present in any column ? Show with Heat-map.
